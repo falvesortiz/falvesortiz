@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @falvesortiz
 - 👀 I’m interested in Web Design and UX Design
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS and PHP
 - 📫 falvesortiz@gmail.com
 
 <!---
